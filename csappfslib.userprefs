@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A23AB281-DF12-4AA9-BB50-319C80990758}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csappfslib/Program.cs">
+    <Files>
+      <File FileName="csappfslib/Program.cs" Line="14" Column="1" />
+      <File FileName="fslib/Component1.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.csappfslib PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
